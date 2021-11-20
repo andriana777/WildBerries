@@ -15,4 +15,5 @@ closeBtn.addEventListener('click', function() {
     cart.style.display = 'none'
 })
 }
-cart();
+
+export default cart
